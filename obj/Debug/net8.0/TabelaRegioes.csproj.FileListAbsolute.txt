@@ -1,0 +1,14 @@
+C:\Users\gabri\My project\TabelaRegioes\bin\Debug\net8.0\TabelaRegioes.exe
+C:\Users\gabri\My project\TabelaRegioes\bin\Debug\net8.0\TabelaRegioes.deps.json
+C:\Users\gabri\My project\TabelaRegioes\bin\Debug\net8.0\TabelaRegioes.runtimeconfig.json
+C:\Users\gabri\My project\TabelaRegioes\bin\Debug\net8.0\TabelaRegioes.dll
+C:\Users\gabri\My project\TabelaRegioes\bin\Debug\net8.0\TabelaRegioes.pdb
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\TabelaRegioes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\TabelaRegioes.AssemblyInfoInputs.cache
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\TabelaRegioes.AssemblyInfo.cs
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\TabelaRegioes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\TabelaRegioes.dll
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\refint\TabelaRegioes.dll
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\TabelaRegioes.pdb
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\TabelaRegioes.genruntimeconfig.cache
+C:\Users\gabri\My project\TabelaRegioes\obj\Debug\net8.0\ref\TabelaRegioes.dll
